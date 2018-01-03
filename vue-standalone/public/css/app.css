@@ -7,9 +7,8 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
-  /* Move down content because we have a fixed navbar that is 50px tall */
-  padding-top: 2rem;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
