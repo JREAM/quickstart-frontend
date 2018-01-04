@@ -1,4 +1,4 @@
-# vue-full
+# vue-webpack
 
 > A Vue.js project
 
